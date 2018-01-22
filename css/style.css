@@ -72,6 +72,7 @@ font-family: 'Jockey One', sans-serif;
 }
 .banner  {
     background-image: url('/lenashao.github.io/images/0.jpg');
+	background-size: cover;
 }
 .nav-right ul li:nth-child(2) a {
   padding: 11px 90px;
