@@ -24,7 +24,7 @@ padding:0;
 /*-- banner --*/
 .banner{
 background:#ced7df;
-margin-bottom:50px;
+    
 }
 /*-- menu --*/
 .nav-right span{
@@ -33,7 +33,7 @@ margin-bottom:50px;
 /*-- //menu --*/
 .banner-grids{
 margin-top:50px;
-
+    margin-bottom:50px;
 }
 .navigation {
   padding-top: 18px;
@@ -1263,7 +1263,6 @@ padding:0;
 	.banner-grids {
 	  margin-top: 20px;
         
-	  margin-bottom: 20px;
 	}
 	.nav-left a {
 	  font-size: 3em;
