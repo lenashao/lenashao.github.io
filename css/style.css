@@ -276,6 +276,7 @@ width:57%;
 /*--about--*/
 .about-grids {
   margin-top: 60px;
+
 }
 .about {
   background:#a4c0bc;
@@ -297,12 +298,23 @@ width:57%;
   margin: 10px 0 16px 0;
   font-style: italic;
 }
+
+
 .about-info p {
   text-align: center;
   font-size: 14px;
   color: #fff;
   width: 71%;
   margin: 0 auto;
+  line-height: 1.8em;
+}
+
+.about-info ul {
+	margin-left: 300px;
+  text-align: left;
+  font-size: 14px;
+  color: #fff;
+  width: 71%;
   line-height: 1.8em;
 }
 .about-grid h4{
